@@ -1,27 +1,30 @@
 {
   "files": {
     "main.css": "/walletconnect-poc/static/css/main.073c9b0a.css",
-    "main.js": "/walletconnect-poc/static/js/main.f8b9aafe.js",
-    "static/js/563.a1960ed3.chunk.js": "/walletconnect-poc/static/js/563.a1960ed3.chunk.js",
-    "static/js/774.eaac0b10.chunk.js": "/walletconnect-poc/static/js/774.eaac0b10.chunk.js",
-    "static/js/883.1553fa4b.chunk.js": "/walletconnect-poc/static/js/883.1553fa4b.chunk.js",
+    "main.js": "/walletconnect-poc/static/js/main.072eedfa.js",
+    "static/js/99.94bde836.chunk.js": "/walletconnect-poc/static/js/99.94bde836.chunk.js",
+    "static/js/563.f0014fad.chunk.js": "/walletconnect-poc/static/js/563.f0014fad.chunk.js",
+    "static/js/774.12958808.chunk.js": "/walletconnect-poc/static/js/774.12958808.chunk.js",
+    "static/js/883.401fde87.chunk.js": "/walletconnect-poc/static/js/883.401fde87.chunk.js",
+    "static/js/942.f5f7be86.chunk.js": "/walletconnect-poc/static/js/942.f5f7be86.chunk.js",
     "static/js/787.8d211779.chunk.js": "/walletconnect-poc/static/js/787.8d211779.chunk.js",
-    "static/js/99.61601337.chunk.js": "/walletconnect-poc/static/js/99.61601337.chunk.js",
-    "static/js/202.7e66a580.chunk.js": "/walletconnect-poc/static/js/202.7e66a580.chunk.js",
-    "static/js/318.807b3943.chunk.js": "/walletconnect-poc/static/js/318.807b3943.chunk.js",
-    "static/js/252.2f486d10.chunk.js": "/walletconnect-poc/static/js/252.2f486d10.chunk.js",
+    "static/js/202.3110a19e.chunk.js": "/walletconnect-poc/static/js/202.3110a19e.chunk.js",
+    "static/js/419.df86214d.chunk.js": "/walletconnect-poc/static/js/419.df86214d.chunk.js",
+    "static/js/318.030a657a.chunk.js": "/walletconnect-poc/static/js/318.030a657a.chunk.js",
+    "static/js/252.6276905c.chunk.js": "/walletconnect-poc/static/js/252.6276905c.chunk.js",
     "index.html": "/walletconnect-poc/index.html",
     "main.073c9b0a.css.map": "/walletconnect-poc/static/css/main.073c9b0a.css.map",
-    "main.f8b9aafe.js.map": "/walletconnect-poc/static/js/main.f8b9aafe.js.map",
-    "774.eaac0b10.chunk.js.map": "/walletconnect-poc/static/js/774.eaac0b10.chunk.js.map",
+    "main.072eedfa.js.map": "/walletconnect-poc/static/js/main.072eedfa.js.map",
+    "99.94bde836.chunk.js.map": "/walletconnect-poc/static/js/99.94bde836.chunk.js.map",
+    "774.12958808.chunk.js.map": "/walletconnect-poc/static/js/774.12958808.chunk.js.map",
     "787.8d211779.chunk.js.map": "/walletconnect-poc/static/js/787.8d211779.chunk.js.map",
-    "99.61601337.chunk.js.map": "/walletconnect-poc/static/js/99.61601337.chunk.js.map",
-    "202.7e66a580.chunk.js.map": "/walletconnect-poc/static/js/202.7e66a580.chunk.js.map",
-    "318.807b3943.chunk.js.map": "/walletconnect-poc/static/js/318.807b3943.chunk.js.map",
-    "252.2f486d10.chunk.js.map": "/walletconnect-poc/static/js/252.2f486d10.chunk.js.map"
+    "202.3110a19e.chunk.js.map": "/walletconnect-poc/static/js/202.3110a19e.chunk.js.map",
+    "419.df86214d.chunk.js.map": "/walletconnect-poc/static/js/419.df86214d.chunk.js.map",
+    "318.030a657a.chunk.js.map": "/walletconnect-poc/static/js/318.030a657a.chunk.js.map",
+    "252.6276905c.chunk.js.map": "/walletconnect-poc/static/js/252.6276905c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.f8b9aafe.js"
+    "static/js/main.072eedfa.js"
   ]
 }

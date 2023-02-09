@@ -1,1 +1,0 @@
-(self.webpackChunkwalletconnect_poc=self.webpackChunkwalletconnect_poc||[]).push([[883],{5883:function(){}}]);
